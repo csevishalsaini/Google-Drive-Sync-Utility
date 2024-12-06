@@ -1,4 +1,6 @@
-# feature 2 Goolge Drive Sync
+# Google-Drive-SynQ-Utility
 Automated Synchronisation of Google Drive with Local System
-feature 2 changes
+this repo is a test repo for learning git.
 
+## author 
+vishal saini
